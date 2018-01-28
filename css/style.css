@@ -19,6 +19,7 @@ h6 {
 }
 
 .education-entry,
+.online-entry,
 .work-entry,
 .project-entry {
   padding: 0 5%;
@@ -42,7 +43,7 @@ h2 {
 h3 {
   font-style: italic;
   font-size: 20px;
-  color: #000;
+  color: #999;
   line-height: 22px;
 }
 
